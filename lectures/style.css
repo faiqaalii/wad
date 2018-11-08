@@ -1,0 +1,13 @@
+#main {
+    max-width: 500px;
+    margin: auto;
+}
+.pet {
+    border: dashed red;
+     margin: auto;
+         
+         cursor: pointer;
+         border-radius: 16px;
+    margin-top: 50%;
+}
+
